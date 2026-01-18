@@ -17,8 +17,8 @@ Verify installations:
 pipenv install
 pipenv --version
 # Install the required packages
-pipenv --python 3.14
-pipenv install --python 3.14
+pipenv --python 3.12
+pipenv install --python 3.12
 pipenv install beautifulsoup4 black tiktoken openai unstructured nltk fastapi jinja2 uvicorn streamlit streamlit-chat tqdm isort langchainhub firecrawl-py langchain-community langsmith pillow certifi langchain-chroma python-dotenv langchain-tavily langchain-pinecone
 ```
 
