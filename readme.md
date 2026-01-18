@@ -8,7 +8,7 @@ This project uses **Pipenv** for dependency management and virtual environment i
 
 Ensure the following are installed on your system:
 
-- **Python 3.14**
+- **Python 3.12**
 - **pip**
 - **pipenv**
 
