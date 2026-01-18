@@ -27,3 +27,8 @@ To activate the virtual env run the following command
 run pipenv shell
 ```
 
+To run the streamlit app
+```commandline
+pipenv run streamlit run main.py
+```
+
